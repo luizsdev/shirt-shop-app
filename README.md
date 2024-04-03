@@ -1,0 +1,9 @@
+## 🚀 TECNOLOGIAS 
+
+- NextJS
+- TypeScript
+- Tailwind
+
+
+
+
